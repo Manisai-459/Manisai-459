@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning courses on Udemy**
 
-- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ManojPennada)
+- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/Manisai-459)
 
 - 📫 U can reach me **[Here](mailTo:manisaiyalavarthipati459@gmail.com)**
 
