@@ -16,24 +16,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/ManojPennada" target="blank"><img align="center"
+    <a href="https://github.com/Manisai-459" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="ManojPennada" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19951948/manoj-pennada" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="manoj_pennada" height="30" width="40" /></a>
-    <a href="https://twitter.com/manojpennada" target="blank"><img align="center"
+            alt="Mani sai" height="30" width="40" /></a>
+    <a href="https://twitter.com/YManisai" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="manojpennada" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/manoj-pennada/" target="blank"><img align="center"
+            alt="mani sai" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/manisai-yalavarthipati" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="manojpennada" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/tejapennada/" target="blank"><img align="center"
+            alt="mani sai" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/yelavarthipati.manisai/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="manoj pennada" height="30" width="40" /></a>
-    <a href="https://instagram.com/manoj_pennada_17" target="blank"><img align="center"
+            alt="mani sai" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mani_459/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="manoj_pennada_17" height="30" width="40" /></a>
+            alt="mani sai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
