@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my academic projects**
 
-- 🌱 I’m currently learning **Web Development as well as Machine Learning courses on Udemy**
+- 🌱 I’m currently learning **Machine Learning courses on Udemy**
 
 - 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ManojPennada)
 
