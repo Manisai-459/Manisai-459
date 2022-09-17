@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=manojpennada&label=Profile%20views&color=0e75b6&style=flat"
         alt="manojpennada" /> </p>
 
-- 🔭 I’m currently working on **my academic projects**
+- 🔭 I’m good at programming
 
 - 🌱 I’m currently learning **Machine Learning courses on Udemy**
 
