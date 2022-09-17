@@ -6,13 +6,13 @@
         src="https://komarev.com/ghpvc/?username=manojpennada&label=Profile%20views&color=0e75b6&style=flat"
         alt="manojpennada" /> </p>
 
-- 🔭 I’m good at programming
+- 🔭 I’m good at programming ready to collaborate to do projects
 
 - 🌱 I’m currently learning **Machine Learning courses on Udemy**
 
-- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/Manisai-459)
+- 👨‍💻 Some of my practice codes and acedamic projects are available at [GitHub](https://github.com/Manisai-459)
 
-- 📫 U can reach me **[Here](mailTo:manisaiyalavarthipati459@gmail.com)**
+- 📫 you can reach me **[Here](mailTo:manisaiyalavarthipati459@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
